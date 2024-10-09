@@ -1,0 +1,16 @@
+{
+  "name": "projetolivraria",
+  "version": "1.0.0",
+  "description": "Praticando autenticação de usuário, através de um projeto de livraria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  }
+}
