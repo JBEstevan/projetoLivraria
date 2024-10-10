@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Praticando autenticação de usuário, através de um projeto de livraria.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
